@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian Martinez @juligank
 - 👀 I’m interested Develop on new Technologies
-- 🌱 I’m currently learning React , Node , Python, IA,  English 
+- 🌱 I’m Backend developer and currently learning,  Python, IA,  English 
 - 💞️ I’m looking to collaborate on your project...
 - 📫 How to reach me (linkedIN https://www.linkedin.com/in/julian-martinez-0b3587268/)
 - 
